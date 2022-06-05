@@ -11,4 +11,4 @@
 <b>Connect with me:</b>
 <ul>
 <li><a href="https://www.linkedin.com/in/sumit-kumar-08/">Linkedin</a></li>
-<li><a href="sk3820824@gmail.com">Gmail</a></li>
+<li><a href="mailto:sk3820824@gmail.com">Mail</a></li>
